@@ -8,3 +8,6 @@
 
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=nabeeltahirdeveloper&count_private=true&bg_color=fff&text_color=0A2540&title_color=635BFF&hide=stars&custom_title=GitHub%20Stats(Nabeel+Tahir))](https://github.com/nabeeltahirdeveloper)
+
+
+[![Nabeel Tahir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nabeeltahirdeveloper)](https://github.com/nabeeltahirdeveloper)
