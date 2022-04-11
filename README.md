@@ -18,7 +18,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabeeltahirdeveloper&langs_count=8)](https://github.com/nabeeltahirdeveloper)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabeeltahirdeveloper&langs_count=8?hide=purebasic)](https://github.com/nabeeltahirdeveloper)
 
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
