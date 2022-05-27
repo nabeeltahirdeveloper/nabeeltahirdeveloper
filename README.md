@@ -17,7 +17,7 @@
 
 <a href="[http://www.github.com/hicodersofficial](https://github.com/nabeeltahirdeveloper?tab=repositories)"><img src="https://activity-graph.herokuapp.com/graph?username=nabeeltahirdeveloper&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabeeltahirdeveloper&hide=PureBasic&langs_count=8)](https://github.com/nabeeltahirdeveloper)
 
 
