@@ -114,6 +114,7 @@
 [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)][repo]
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)][repo]
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)][repo]
+[![Jupyter Notebook](https://my.spline.design/untitled-6a920f5f0861350341b18908bea572ee/)][repo]
 
 <iframe src='https://my.spline.design/untitled-6a920f5f0861350341b18908bea572ee/' frameborder='0' width='100%' height='100%'></iframe>
 
