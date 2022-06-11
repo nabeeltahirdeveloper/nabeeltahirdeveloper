@@ -11,9 +11,6 @@
 [![My github stats](https://github-readme-stats.vercel.app/api?username=nabeeltahirdeveloper&count_private=true&bg_color=fff&text_color=0A2540&title_color=635BFF&hide=stars&show_icons=true&custom_title=GitHub%20Stats(Nabeel+Tahir))](https://github.com/nabeeltahirdeveloper)
 <br/>
 
-[![My github stats](https://my.spline.design/untitled-6a920f5f0861350341b18908bea572ee/(Nabeel+Tahir))](https://github.com/nabeeltahirdeveloper)
-<br/>
-
 ## 🏆 **GITHUB TROPHY**
 
 ![https://github.com/nabeeltahirdeveloper?tab=repositories](https://github-profile-trophy.vercel.app/?username=nabeeltahirdeveloper&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
